@@ -1,0 +1,13 @@
+We have all agreed on these attributions:
+
+Luna Kim worked on:
+- train encoder hyperparameter tuning
+
+Zhaoyi Zhang worked on:
+- encoder.py and stability
+
+Connor Pestell worked on:
+- modelling and evaluation
+
+Kathy Li worked on:
+- train_encoder.py
