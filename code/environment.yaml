@@ -11,3 +11,11 @@ dependencies:
     - scikit-learn
     - jupyterlab
     - torch
+    - huggingface_hub[hf_xet]
+    - tqdm
+    - pickle
+    - os
+    - sys
+    - transformers
+    
+    
